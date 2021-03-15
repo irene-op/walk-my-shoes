@@ -11,6 +11,17 @@ h2 {
   line-height: 1.5;
 }
 
+footer p {
+  font-size: small;
+  margin-top: 20px;
+  color: grey;
+}
+
+.logo-navbar {
+  width: 50px;
+  border: black solid 1px;
+  border-radius: 50px;
+}
 .logo-title {
   width: 600px;
   border: 10px solid black;
@@ -25,7 +36,6 @@ h2 {
   width: 300px;
 }
 
-.navigation-links {
-  display: flex;
-  justify-content: space-evenly;
+.intro-text {
+  padding-top: 100px;
 }
