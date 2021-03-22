@@ -62,7 +62,24 @@ footer p {
 a:hover {
   text-decoration: none;
 }
+.content-area {
+  border: solid black;
+  margin: 25px 70px;
+  padding: 50px;
+  border-radius: 50px;
+  line-height: 30px;
+}
 
+.read-more-link {
+  color: grey;
+}
+
+.essay-entry {
+  margin: 25px auto;
+}
+a {
+  color: black;
+}
 footer {
   margin-top: 80px;
 }
