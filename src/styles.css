@@ -39,3 +39,16 @@ footer p {
 .intro-text {
   padding-top: 100px;
 }
+
+.contact h2 {
+  margin: 70px;
+}
+
+.contact-links {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+footer {
+  margin-top: 80px;
+}
