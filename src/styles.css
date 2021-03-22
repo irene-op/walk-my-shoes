@@ -46,6 +46,7 @@ footer p {
 
 .contact h2 {
   margin: 70px;
+  font-size: 40px;
 }
 
 .contact {
@@ -56,6 +57,10 @@ footer p {
   display: flex;
   justify-content: space-evenly;
   color: black;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 footer {
