@@ -10,6 +10,9 @@ h2 {
   text-align: center;
   line-height: 1.5;
 }
+h1 {
+  font-weight: bold;
+}
 
 footer p {
   font-size: small;
@@ -30,7 +33,7 @@ footer p {
 }
 .logo-walking {
   display: block;
-  margin: 0px 80px;
+  margin: 0px auto;
   border: 10px solid black;
   border-radius: 15px;
   width: 300px;
@@ -45,8 +48,9 @@ footer p {
 }
 
 .contact h2 {
-  margin: 70px;
   font-size: 40px;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .contact {
@@ -82,4 +86,11 @@ a {
 }
 footer {
   margin-top: 80px;
+}
+
+@media (max-width: 576px) {
+  .walk-my-shoes-title {
+    font-size: 40px;
+    font-weight: bold;
+  }
 }
