@@ -13,11 +13,21 @@ h2 {
 h1 {
   font-weight: bold;
 }
+h5 {
+  color: grey;
+  font-size: smaller;
+  text-align: center;
+  font-style: italic;
+}
 
 footer p {
   font-size: small;
   margin-top: 20px;
   color: grey;
+}
+
+hr {
+  color: gray;
 }
 
 .logo-navbar {
@@ -83,6 +93,10 @@ a:hover {
 }
 a {
   color: black;
+}
+
+.blog-posts p {
+  margin-top: 50px;
 }
 footer {
   margin-top: 80px;
