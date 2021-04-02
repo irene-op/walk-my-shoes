@@ -12,6 +12,7 @@ h2 {
 }
 h1 {
   font-weight: bold;
+  margin: 48px auto;
 }
 h5 {
   color: grey;
@@ -82,6 +83,10 @@ a:hover {
   padding: 50px;
   border-radius: 50px;
   line-height: 30px;
+}
+
+.content-area p {
+  margin: auto;
 }
 
 .read-more-link {
