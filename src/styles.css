@@ -52,6 +52,11 @@ hr {
   width: 300px;
 }
 
+.profile-picture {
+  border-radius: 15px;
+  margin-bottom: 50px;
+}
+
 .intro-text {
   margin-top: 80px;
 }
